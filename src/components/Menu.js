@@ -1,4 +1,6 @@
 import React from 'react'
+//css
+import "./Menu.css"
 
 const Menu = ({ onClick }) => 
     <div className="Menu">

@@ -6,7 +6,6 @@ const Game = ({ rows, columns}) => {
   return (
     <div className="Game">
       <Menu onClick={start} />
-      rows {rows}, columns {columns}
     </div>
   )
 }
